@@ -20,9 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/aaca0c4f-75f1-4a3e-99f5-55146d581d91" alt="c" width="40" height="40"/> </a>
-  
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/9d082d17-a735-4adb-acef-d777971d1daa" alt="cplusplus" width="40" height="40"/>  </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/aaca0c4f-75f1-4a3e-99f5-55146d581d91" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/9d082d17-a735-4adb-acef-d777971d1daa" alt="cplusplus" width="40" height="40"/>  </a>
   
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
   
