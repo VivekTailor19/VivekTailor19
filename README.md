@@ -20,20 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/aaca0c4f-75f1-4a3e-99f5-55146d581d91" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/9d082d17-a735-4adb-acef-d777971d1daa" alt="cplusplus" width="40" height="40"/>  </a>
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/1f40c5ac-4492-4e78-b76b-c55cf03283ca" alt="android studio" width="40" height="40"/> </a> 
-
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/665a798a-2451-4ddf-9570-71929b01a7e9" alt="html5" width="40" height="40"/> </a>
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/aaca0c4f-75f1-4a3e-99f5-55146d581d91" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/9d082d17-a735-4adb-acef-d777971d1daa" alt="cplusplus" width="40" height="40"/>  </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/1f40c5ac-4492-4e78-b76b-c55cf03283ca" alt="android studio" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/VivekTailor19/VivekTailor19/assets/119835214/665a798a-2451-4ddf-9570-71929b01a7e9" alt="html5" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   
   </p>
 
